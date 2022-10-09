@@ -1,11 +1,10 @@
 <div align="center">
-<br><br><br>
+<br>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Developer&fontAlign=50&color=ff9ca8&fontColor=fa7089&stroke=f4f3ee&strokeWidth=3&animation=twinkling)
 
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="45%" height="210px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="45%"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,8 +14,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width="90%"/>
 </a>
-
-<br>
 
 </div>
 
