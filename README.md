@@ -5,12 +5,12 @@
 
 <br>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyungjin-Cho&layout=compact&theme=dracula&hide_border=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyungjin_Cho&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width=88%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width=95%/>
 </a>
 
 <br>
