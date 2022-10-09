@@ -4,13 +4,13 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Developer&fontAlign=50&color=ff9ca8&fontColor=fa7089&stroke=f4f3ee&strokeWidth=3&animation=twinkling)
 
 <br>
- 
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyungjin_Cho&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width=80%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true"/>
 </a>
 
 <br>
