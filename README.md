@@ -1,7 +1,22 @@
-### Hi there 👋
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungjin-Cho&count_bg=%2399DFD7&title_bg=%23DD4272&icon=&icon_color=%23BEB8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+<br><br><br>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Developer&fontAlign=50&color=ff9ca8&fontColor=fa7089&stroke=f4f3ee&strokeWidth=3&animation=twinkling)
+
+<br>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyungjin-Cho&layout=compact&theme=dracula&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width=85%/>
+</a>
+
+<br>
+
 </div>
+
 <!--
 **Kyungjin-Cho/Kyungjin-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
