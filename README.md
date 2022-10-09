@@ -5,15 +5,15 @@
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="45%"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kyungjin_Cho&theme=dracula&hide_border=true&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kyungjin_Cho&theme=dracula&hide_border=true&layout=compact" width="45%" />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width="80%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width="90%"/>
 </a>
 
 <br>
