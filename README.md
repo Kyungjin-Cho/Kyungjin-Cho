@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungjin-Cho&count_bg=%2399DFD7&title_bg=%23DD4272&icon=&icon_color=%23BEB8B8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <!--
 **Kyungjin-Cho/Kyungjin-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
