@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=rogue&count_private=true&hide_border=true" width="90%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=dracula&count_private=true&hide_border=true" width="90%"/>
 </a>
 
 </div>
