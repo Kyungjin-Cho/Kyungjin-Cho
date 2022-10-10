@@ -2,8 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Jinnie!&fontAlign=50&color=1D2C3C&fontColor=fa7089&stroke=f4f3ee&strokeWidth=3&animation=twinkling)
 
-<h3>🛠 Tech Stack 🛠</h3>
-<h4> Techs that I've used at least once</h4>
+<h3>🫶 Tech Stack 🫶</h3>
+<h4> Techs that I've used at least once🙆‍♀️</h4>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <br>
-<br>
+<h3>💻 My Stats 💻</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="45%"/>
 </a>
