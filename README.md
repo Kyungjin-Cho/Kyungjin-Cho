@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
