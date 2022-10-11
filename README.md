@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Jinnie!&fontAlign=50&color=1D2C3C&fontColor=fa7089&stroke=f4f3ee&strokeWidth=3&animation=twinkling)
 
-<h3>🫶 Tech Stack 🫶</h3>
+<h3>🌺 Tech Stack 🌺</h3>
 <h4>💪 Techs that I've used at least once 💯</h4>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
