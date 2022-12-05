@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&lines=Hello+World🐱‍🏍++I+am+Jinnie🤩&font=Fredoka+One&size=50&height=100&width=700)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&lines=Hello+World🤖++I+am+Jinnie🤩&font=Fredoka+One&size=50&height=100&width=700)
 
 <h3>🌺 Tech Stack 🌺</h3>
 <h4>💪 Techs that I've used at least once 💯</h4>
