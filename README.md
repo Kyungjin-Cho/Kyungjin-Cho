@@ -17,20 +17,11 @@
 <br>
 <h3>👩‍💻 My Stats 👩‍💻</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyungjin-Cho&show_icons=true&theme=vue&count_private=true&hide_border=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=vue&hide_border=true&layout=compact&v=2" width="70%"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kyungjin_Cho&theme=vue&hide_border=true&layout=compact" width="70%" />
-</a>
- 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=vue&hide_border=true" width="70%"/>
 </a>
-
-  
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Kyungjin-Cho&theme=dracula&count_private=true&hide_border=true" width="90%"/>
-</a> -->
 
 </div>
