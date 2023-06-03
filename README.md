@@ -17,7 +17,7 @@
 <br>
 <h3>👩‍💻 My Stats 👩‍💻</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=vue&hide_border=true&layout=compact&v=2" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=vue&hide_border=true&layout=compact&langs_count=10&v=2" width="70%"/>
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
