@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Hello%20World%20🦸‍♀️&desc=I%20am%20Jinnie%20🤩&fontSize=90&descSize=30&fontColor=008080&fontAlignY=40&animation=blink&color=timeGradient&width=100%)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Hello%20World%20🦸‍♀️&desc=I%20am%20Jinnie%20🤩&fontSize=90&descSize=30&fontColor=944E63&fontAlignY=40&animation=blink&color=timeGradient&width=100%)
 
 <h3>🌺 Tech Stack 🌺</h3>
 <h4>💪 Techs that I've used at least once 💯</h4>
@@ -29,15 +29,15 @@
 <h3>👩‍💻 My Stats 👩‍💻</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=nightowl&hide_border=true&layout=compact&langs_count=10&v=2" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=rose&hide_border=true&layout=compact&langs_count=10&v=2" width="70%"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyungjin-Cho&layout=compact&theme=nightowl&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyungjin-Cho&layout=compact&theme=rose&hide_border=true" width="70%" />
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=nightowl&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=rose&hide_border=true" width="70%"/>
 </a>
 
 <hr>
