@@ -1,9 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&lines=Hello+World🦸‍♀️++I+am+Jinnie🤩&font=Fredoka+One&size=50&height=100&width=700)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Hello%20World%20🦸‍♀️&desc=I%20am%20Jinnie%20🤩&fontSize=90&descSize=30&fontColor=008080&fontAlignY=40&animation=blink&color=timeGradient&width=100%)
 
 <h3>🌺 Tech Stack 🌺</h3>
 <h4>💪 Techs that I've used at least once 💯</h4>
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,17 +24,22 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white"/>
 
+<hr>
 
 <h3>👩‍💻 My Stats 👩‍💻</h3>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungjinCho&layout=donut-vertical&theme=vue&hide_border=true" width="20%"
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=nightowl&hide_border=true&layout=compact&langs_count=10&v=2" width="70%"/>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KyungjinCho&theme=vue&hide_border=true&layout=compact&langs_count=10&v=2" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyungjin-Cho&layout=compact&theme=nightowl&hide_border=true" width="70%" />
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=vue&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=nightowl&hide_border=true" width="70%"/>
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&width=100%"/>
 
 </div>
