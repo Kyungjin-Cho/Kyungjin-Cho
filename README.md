@@ -40,6 +40,14 @@
   <img src="https://streak-stats.demolab.com/?user=Kyungjin-Cho&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=nightowl&hide_border=true" width="70%"/>
 </a>
 
+<hr>
+
+<h3>💌 Contact Me 💌</h3>
+<a href="https://www.linkedin.com/in/kyungjin-cho-korea/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
+<a href="https://www.hackerrank.com/profile/kyungjin_cho_kr"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
+<a href="https://wakatime.com/@KyungjinCho"><img src="https://img.shields.io/badge/WakaTime-00000?style=for-the-badge&logo=WakaTime&logoColor=white"/></a> 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&width=100%"/>
 
 </div>
